@@ -1,0 +1,11 @@
+.container-fluid {
+    background-color: #ffd700; 
+    max-height: 100vh; 
+    overflow-y: hidden; 
+}
+
+.footer {
+    background-color: #b87333; 
+    font-size: 0.9rem; 
+}
+
